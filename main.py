@@ -6,6 +6,8 @@ from datetime import date
 df = pd.DataFrame(dtype={
     "date_start": int
 })
+
+print(1)
 # from dash import Dash, dcc, html
 # import app.router
 
